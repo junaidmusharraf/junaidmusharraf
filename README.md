@@ -6,11 +6,9 @@
 <p>I am a dedicated student exploring various fields within computer science, with a primary focus on web development. I am continually expanding my knowledge and skills in programming languages like Python, Java, C++, and SQL, while also enhancing my expertise in front-end technologies such as HTML and CSS.
 </p>
 <h3 align="left">TOOLS AND TECHNOLOGIES</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,java,mongodb,mysql,nodejs,php,python,react,typescript" />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,java,mongodb,mysql,nodejs,php,python,react,typescript&perline=7)](https://skillicons.dev)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaidmusharraf&show_icons=true&locale=en&layout=compact" alt="junaidmusharraf" /></p>
 
 <hr class footer-line>
