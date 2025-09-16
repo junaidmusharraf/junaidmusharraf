@@ -7,7 +7,7 @@
 </p>
 <h3 align="left">TOOLS AND TECHNOLOGIES</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,java,mongodb,mysql,nodejs,php,python,react,typescript&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,java,mongodb,mysql,nodejs,php,python,react,bootstrap,figma,nextjs,nodejs,powershell,threejs,typescript&perline=7)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaidmusharraf&show_icons=true&locale=en&layout=compact" alt="junaidmusharraf" /></p>
 
