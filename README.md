@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Junaid 👋🏻</h1>
-<h3 align="center">A Passionate Front-End Developer on Deck</h3>
+<h3 align="center">A Passionate Full-Stack Developer on Deck</h3>
 <img align="right" alt="coding" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW04NnRxeWo2Z3Vkbnd5dG9oaTR5bWF4dG5ieGh2eHZrd3Z1ZDNrMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 <h3 align="left">ABOUT ME</h3>
